@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align=center>Hola! soy Matías Barra 👋</h1><br>
+
+<strong><p align="center">Estudiante de ingeniería civil informatica UACH </p></strong>
 
 <!--
 **matiasbarram/matiasbarram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
