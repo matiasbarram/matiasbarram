@@ -1,4 +1,4 @@
-<h1 align=center>Hola! soy Matías Barra 👋</h1><br>
+<h1 align=center>Hola! soy Matías Barra 👋</h1>
 
 <strong><p align="center">Estudiante de ingeniería civil informatica UACH </p></strong>
 
