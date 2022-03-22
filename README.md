@@ -9,8 +9,6 @@
 </tr>
 </thead>
 <tbody>
-  <tr><th scope='row'>Nombre</th><td>Matías Barra</td>
-  </tr><tr><th scope='row'>Fecha de nacimiento</th><td> <time datetime="1998-09-28">28 Septiembre 1998</time> </td></tr>
   <tr><th scope='row'>Educación</th><td>Ingeniería Civil Informática</td></tr>
   <tr><th scope='row'>Institución</th><td>Universidad Austral de Chile</td></tr>
   <tr><th scope='row'>Nacionalidad</th><td>Chileno</td></tr>
