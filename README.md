@@ -19,8 +19,8 @@
 
 <h2 align="center"> Contenido </h2>
 <div align="center">
-<p> En este repositorio encontrarán algunos proyectos en los cuales he participado dentro de mi vida Universitaria <br> 
-  La mayoria contemplan areas de la <b>Inteligencia Artificial 🤖</b> y el <b>desarrollo de Software 🧑‍💻</b>.</p>
+<p> En este repositorio encontrarán algunos proyectos en los cuales he participado dentro de mi vida Universitaria. <br> 
+  La mayoria contemplan áreas de la <b>Inteligencia Artificial 🤖</b> y el <b>desarrollo de Software 🧑‍💻</b></p>
 </div>
 
 <!--
