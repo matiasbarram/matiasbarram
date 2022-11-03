@@ -11,9 +11,10 @@
 <tbody>
   <tr><th scope='row'>Educación</th><td>Ingeniería Civil Informática</td></tr>
   <tr><th scope='row'>Institución</th><td>Universidad Austral de Chile</td></tr>
-  <tr><th scope='row'>Nacionalidad</th><td>Chileno</td></tr>
+  <tr><th scope='row'>Nacionalidad</th><td>Chilena</td></tr>
   <tr><th scope='row'>Ocupación</th><td>Estudiante</td></tr>
-  <tr><th scope='row'>Habilidades</th><td>HTML, CSS, JavaScript, Python</td></tr>
+  <tr><th scope='row'>Habilidades</th><td>HTML, CSS, JavaScript (Vanilla, Vuejs, Nuxt), Python</td></tr>
+  <tr><th scope='row'>Aprendiendo</th><td>Tailwinds, nextjs</td></tr>
 </tbody>
 </table>
 
