@@ -13,8 +13,8 @@
   <tr><th scope='row'>Institución</th><td>Universidad Austral de Chile</td></tr>
   <tr><th scope='row'>Nacionalidad</th><td>Chilena</td></tr>
   <tr><th scope='row'>Ocupación</th><td>Estudiante</td></tr>
-  <tr><th scope='row'>Habilidades</th><td>HTML, CSS, JavaScript (Vanilla, Vuejs, Nuxt), Python</td></tr>
-  <tr><th scope='row'>Aprendiendo</th><td>Tailwinds, nextjs</td></tr>
+  <tr><th scope='row'>Habilidades</th><td>Full-stack webdev (Python, Typescript) </td></tr>
+  <tr><th scope='row'>Aprendiendo</th><td>Nextjs</td></tr>
 </tbody>
 </table>
 
